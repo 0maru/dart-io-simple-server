@@ -4,3 +4,26 @@
 
 # Conventional directory for build output.
 build/
+
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# lcov coverage
+**/coverage/
+
+# environment
+.env/
